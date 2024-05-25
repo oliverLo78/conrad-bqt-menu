@@ -70,9 +70,9 @@
     margin-bottom: 1rem;
   }
   
-  menu {
+  code {
     /* Monospace font stack is used for our code blocks to make it look more like code */
-    font-family: 'Kalista Font Duo', 
+    font-family: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', 'Lucida Console', Monaco, monospace;
   }
   
   header {

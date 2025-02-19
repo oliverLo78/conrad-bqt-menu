@@ -2,6 +2,10 @@
 
 In this activity, you will work to build a webpage that will hold a collection of BQT Menus. What better way to learn BQT Menu than to build a knowledge base of CSS?
 
+## Demo
+
+* Link to Banquet Menu: [https://oliverlo78.github.io/conrad-bqt-menu/]
+  
 ## Instructions
 
 The completed application should meet the following criteria:
